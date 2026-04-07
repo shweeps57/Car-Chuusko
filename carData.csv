@@ -1,0 +1,272 @@
+Brand,Name,MinPrice,MaxPrice,bodyType,Transmission,Seater,Performance,Comfort,Features,Safety,Mileage,CityUseScore,HighWayUseScore,ResaleValue,Rating,MaintenanceRating,FuelType
+Tata,Punch,600000,900000,SUV,Manual,5,2,4,3,4,4,5,3,4,4,4,Petrol
+Hyundai,i20,700000,1100000,Hatchback,Manual,5,3,4,4,3,4,5,4,4,4,4,Petrol
+Maruti,Swift,600000,900000,Hatchback,Manual,5,3,3,3,3,5,5,3,5,4,5,Petrol
+Tata,Nexon,800000,1400000,SUV,Manual,5,3,4,4,5,4,4,4,4,4,4,Petrol
+Hyundai,Creta,1100000,2000000,SUV,Automatic,5,4,5,5,4,4,4,5,4,4,4,Petrol
+Kia,Seltos,1100000,2000000,SUV,Automatic,5,4,5,5,4,4,4,5,4,4,4,Petrol
+Mahindra,Thar,1200000,1700000,SUV,Manual,4,4,3,3,4,2,3,5,4,4,3,Diesel
+Toyota,Fortuner,3300000,5000000,SUV,Automatic,7,4,5,4,5,3,3,5,5,5,3,Diesel
+BMW,X5,9500000,11000000,SUV,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Tesla,Model3,6000000,7000000,Sedan,Automatic,5,4,5,5,5,5,5,4,3,4,4,Electric
+Tata,Altroz,700000,1100000,Hatchback,Manual,5,3,4,4,5,4,5,4,4,4,4,Petrol
+Tata,Harrier,1500000,2500000,SUV,Automatic,5,4,5,5,5,3,3,5,4,4,3,Petrol
+Tata,Safari,1600000,2600000,SUV,Automatic,7,4,5,5,5,3,3,5,4,4,3,Petrol
+Tata,Tiago,500000,800000,Hatchback,Manual,5,2,3,3,4,5,5,3,4,4,5,Petrol
+Tata,Tigor,600000,900000,Sedan,Manual,5,2,3,3,4,5,5,3,4,4,5,Petrol
+Tata,Curvv,1200000,2000000,SUV,Automatic,5,4,5,5,5,4,4,5,4,4,4,Petrol
+Tata,PunchEV,1000000,1500000,SUV,Automatic,5,3,4,4,5,5,5,4,4,4,4,Electric
+Tata,NexonEV,1400000,2000000,SUV,Automatic,5,4,5,5,5,5,5,4,4,4,4,Electric
+Maruti,Baleno,700000,1100000,Hatchback,Manual,5,3,4,4,3,5,5,4,5,4,5,Petrol
+Maruti,Brezza,800000,1400000,SUV,Automatic,5,3,4,4,4,4,4,4,5,4,5,Petrol
+Maruti,Fronx,700000,1200000,SUV,Manual,5,3,4,4,3,5,5,4,5,4,5,Petrol
+Maruti,Ertiga,900000,1500000,MPV,Manual,7,3,4,4,4,5,5,4,5,4,5,Petrol
+Maruti,XL6,1100000,1800000,MPV,Automatic,6,3,5,5,4,4,4,5,5,4,5,Petrol
+Maruti,Dzire,600000,1000000,Sedan,Manual,5,2,3,3,3,5,5,3,5,4,5,Petrol
+Maruti,Celerio,500000,800000,Hatchback,Manual,5,2,3,3,3,5,5,3,5,4,5,Petrol
+Maruti,AltoK10,400000,600000,Hatchback,Manual,5,1,2,2,2,5,5,2,5,4,5,Petrol
+Maruti,GrandVitara,1200000,2000000,SUV,Automatic,5,4,5,5,5,4,4,5,5,4,5,Hybrid
+Hyundai,Venue,800000,1400000,SUV,Manual,5,3,4,4,4,4,5,4,4,4,4,Petrol
+Hyundai,Verna,1100000,1800000,Sedan,Automatic,5,4,5,5,4,4,4,5,4,4,4,Petrol
+Hyundai,Exter,600000,1000000,SUV,Manual,5,2,4,3,4,5,5,3,4,4,4,Petrol
+Hyundai,Alcazar,1500000,2500000,SUV,Automatic,7,4,5,5,5,3,3,5,4,4,3,Petrol
+Hyundai,Aura,600000,900000,Sedan,Manual,5,2,3,3,3,5,5,3,4,4,4,Petrol
+Hyundai,Grandi10,600000,900000,Hatchback,Manual,5,2,3,3,3,5,5,3,4,4,4,Petrol
+Hyundai,Tucson,2800000,3500000,SUV,Automatic,5,4,5,5,5,3,3,5,4,4,3,Petrol
+Hyundai,KonaEV,2000000,2500000,SUV,Automatic,5,4,5,5,5,5,5,4,4,4,4,Electric
+Kia,Sonet,800000,1400000,SUV,Manual,5,3,4,4,4,4,5,4,4,4,4,Petrol
+Kia,Carens,1000000,1800000,MPV,Automatic,7,3,5,5,4,4,4,5,4,4,4,Petrol
+Kia,Carnival,3000000,4000000,MPV,Automatic,7,4,5,5,5,3,3,5,4,4,3,Petrol
+Kia,EV6,6000000,7000000,SUV,Automatic,5,5,5,5,5,5,5,5,3,5,3,Electric
+Mahindra,ScorpioN,1300000,2200000,SUV,Automatic,7,4,5,4,5,3,3,5,4,4,3,Diesel
+Mahindra,XUV700,1400000,2500000,SUV,Automatic,7,4,5,5,5,3,3,5,4,4,3,Diesel
+Mahindra,XUV300,800000,1400000,SUV,Manual,5,3,4,4,5,4,5,4,4,4,4,Petrol
+Mahindra,Bolero,900000,1200000,SUV,Manual,7,2,3,2,4,4,4,3,4,4,4,Diesel
+Mahindra,Marazzo,1100000,1800000,MPV,Manual,7,3,5,4,4,4,4,5,4,4,4,Diesel
+Mahindra,XUV3XO,900000,1500000,SUV,Automatic,5,3,4,4,5,4,5,4,4,4,4,Petrol
+Toyota,InnovaCrysta,1900000,2600000,MPV,Manual,7,3,5,4,5,4,4,5,5,5,4,Petrol
+Toyota,InnovaHycross,2000000,3000000,MPV,Automatic,7,4,5,5,5,5,5,5,5,5,4,Hybrid
+Toyota,Glanza,700000,1100000,Hatchback,Manual,5,3,4,4,4,5,5,4,5,4,5,Petrol
+Toyota,UrbanCruiser,1000000,1700000,SUV,Automatic,5,3,4,4,4,4,4,4,5,4,5,Petrol
+Toyota,Hyryder,1100000,2000000,SUV,Automatic,5,4,5,5,5,5,5,5,5,5,4,Hybrid
+MG,Hector,1500000,2500000,SUV,Automatic,5,4,5,5,5,3,3,5,3,4,3,Petrol
+MG,Astor,1000000,1700000,SUV,Automatic,5,3,5,5,5,4,4,4,3,4,3,Petrol
+MG,ZS EV,2000000,2500000,SUV,Automatic,5,4,5,5,5,5,5,4,3,4,3,Electric
+MG,Comet,800000,1000000,Hatchback,Automatic,4,2,3,3,4,5,5,2,3,4,4,Electric
+BYD,Atto3,3000000,3500000,SUV,Automatic,5,4,5,5,5,5,5,5,3,5,3,Electric
+BYD,e6,3000000,3500000,MPV,Automatic,5,3,5,4,5,5,5,4,3,4,3,Electric
+BYD,Seal,4000000,5000000,Sedan,Automatic,5,5,5,5,5,5,5,5,3,5,3,Electric
+Tata,Nexon.ev Max,1700000,2200000,SUV,Automatic,5,4,5,5,5,5,5,4,4,4,4,Electric
+Tata,Sierra EV,2500000,3000000,SUV,Automatic,5,4,5,5,5,5,5,4,4,4,4,Electric
+Tata,Avinya,2800000,3500000,SUV,Automatic,5,5,5,5,5,5,5,5,4,5,4,Electric
+Tata,Curvv EV,1800000,2300000,SUV,Automatic,5,4,5,5,5,5,5,4,4,4,4,Electric
+Tata,Harrier EV,2500000,3200000,SUV,Automatic,5,4,5,5,5,5,5,4,4,4,4,Electric
+Tata,Safari Petrol,1600000,2600000,SUV,Automatic,7,4,5,5,5,3,3,5,4,4,3,Petrol
+Tata,Punch CNG,700000,1000000,SUV,Manual,5,2,4,3,4,4,5,3,4,4,4,CNG
+Tata,Tiago CNG,550000,850000,Hatchback,Manual,5,2,3,3,4,5,5,3,4,4,5,CNG
+Tata,Tigor CNG,650000,950000,Sedan,Manual,5,2,3,3,4,5,5,3,4,4,5,CNG
+Tata,Altroz CNG,800000,1200000,Hatchback,Manual,5,3,4,4,5,4,5,4,4,4,4,CNG
+Tata,Nexon CNG,900000,1500000,SUV,Manual,5,3,4,4,5,4,4,4,4,4,4,CNG
+Tata,Punch Diesel,650000,950000,SUV,Manual,5,2,4,3,4,5,5,3,4,4,4,Diesel
+Tata,Altroz Racer,1000000,1300000,Hatchback,Manual,5,4,4,4,5,4,5,4,4,4,4,Petrol
+Maruti,Jimny,1200000,1500000,SUV,Manual,4,4,3,3,4,3,3,5,4,4,4,Petrol
+Maruti,Invicto,2500000,2900000,MPV,Automatic,7,4,5,5,5,4,4,5,5,4,4,Hybrid
+Maruti,e Vitara,1800000,2500000,SUV,Automatic,5,4,5,5,5,5,5,5,5,4,4,Electric
+Maruti,Carry,500000,700000,MPV,Manual,7,1,2,2,3,5,5,2,4,3,5,CNG
+Maruti,S-Presso,400000,600000,Hatchback,Manual,5,1,2,2,2,5,5,2,5,3,5,Petrol
+Maruti,S-Presso CNG,450000,650000,Hatchback,Manual,5,1,2,2,2,5,5,2,5,3,5,CNG
+Maruti,Wagon R,550000,800000,Hatchback,Manual,5,2,3,3,3,5,5,3,5,4,5,Petrol
+Maruti,Wagon R CNG,600000,850000,Hatchback,Manual,5,2,3,3,3,5,5,3,5,4,5,CNG
+Maruti,Ciaz,900000,1300000,Sedan,Automatic,5,3,4,4,4,4,4,4,4,4,4,Petrol
+Maruti,Swift Hybrid,650000,1000000,Hatchback,Manual,5,3,3,3,3,5,5,3,5,4,5,Hybrid
+Maruti,Brezza CNG,900000,1400000,SUV,Manual,5,3,4,4,4,4,4,4,5,4,5,CNG
+Maruti,Dzire CNG,650000,1000000,Sedan,Manual,5,2,3,3,3,5,5,3,5,4,5,CNG
+Maruti,Baleno CNG,750000,1100000,Hatchback,Manual,5,3,4,4,3,5,5,4,5,4,5,CNG
+Maruti,Ertiga CNG,1000000,1600000,MPV,Manual,7,3,4,4,4,5,5,4,5,4,5,CNG
+Hyundai,Ioniq 5,4500000,5500000,SUV,Automatic,5,5,5,5,5,5,5,5,3,5,3,Electric
+Hyundai,Ioniq 6,5000000,6000000,Sedan,Automatic,5,5,5,5,5,5,5,5,3,5,3,Electric
+Hyundai,Creta EV,1700000,2300000,SUV,Automatic,5,4,5,5,5,5,5,4,4,4,4,Electric
+Hyundai,Verna Turbo,1300000,1900000,Sedan,Automatic,5,4,5,5,4,4,4,5,4,4,4,Petrol
+Hyundai,i20 N Line,1000000,1300000,Hatchback,Manual,5,4,4,4,4,4,5,4,4,4,4,Petrol
+Hyundai,Venue N Line,1000000,1400000,SUV,Manual,5,4,4,4,4,4,5,4,4,4,4,Petrol
+Hyundai,Creta N Line,1400000,2100000,SUV,Automatic,5,5,5,5,4,4,4,5,4,4,4,Petrol
+Hyundai,Grandi10 CNG,650000,950000,Hatchback,Manual,5,2,3,3,3,5,5,3,4,4,4,CNG
+Hyundai,Aura CNG,650000,950000,Sedan,Manual,5,2,3,3,3,5,5,3,4,4,4,CNG
+Hyundai,Exter CNG,700000,1050000,SUV,Manual,5,2,4,3,4,5,5,3,4,4,4,CNG
+Hyundai,Alcazar Diesel,1600000,2600000,SUV,Automatic,7,4,5,5,5,4,3,5,4,4,3,Diesel
+Hyundai,Stargazer,1500000,2200000,MPV,Automatic,7,3,5,5,4,4,4,5,4,4,3,Petrol
+Kia,EV9,6500000,8000000,SUV,Automatic,7,5,5,5,5,5,5,5,3,5,3,Electric
+Kia,Syros,1000000,1600000,SUV,Automatic,5,3,4,4,4,4,5,4,4,4,4,Petrol
+Kia,Sonet Diesel,900000,1500000,SUV,Manual,5,3,4,4,4,5,5,4,4,4,4,Diesel
+Kia,Seltos Diesel,1200000,2100000,SUV,Automatic,5,4,5,5,4,5,4,5,4,4,4,Diesel
+Kia,Carens Diesel,1100000,1900000,MPV,Manual,7,3,5,5,4,5,4,5,4,4,4,Diesel
+Mahindra,XUV400,1400000,1900000,SUV,Automatic,5,4,4,4,5,5,5,4,4,4,4,Electric
+Mahindra,BE6,1800000,2600000,SUV,Automatic,5,5,5,5,5,5,5,5,4,5,4,Electric
+Mahindra,XEV9e,2200000,3000000,SUV,Automatic,5,5,5,5,5,5,5,5,4,5,4,Electric
+Mahindra,BE6e,2000000,2700000,SUV,Automatic,5,5,5,5,5,5,5,5,4,5,4,Electric
+Mahindra,Thar Roxx,1700000,2200000,SUV,Automatic,5,4,4,4,4,3,3,5,4,4,3,Petrol
+Mahindra,Thar Electric,2000000,2500000,SUV,Automatic,4,4,4,4,5,5,4,5,4,4,4,Electric
+Mahindra,ScorpioClassic,1100000,1700000,SUV,Manual,7,3,3,3,4,3,3,5,4,4,3,Diesel
+Mahindra,XUV700 Diesel,1500000,2600000,SUV,Automatic,7,4,5,5,5,4,3,5,4,4,3,Diesel
+Mahindra,Bolero Neo,900000,1300000,SUV,Manual,7,2,3,3,4,4,4,3,4,4,4,Diesel
+Mahindra,Pik-Up,1000000,1400000,Pickup,Manual,2,3,2,2,3,4,3,4,4,3,4,Diesel
+Mahindra,XUV300 Turbo,900000,1500000,SUV,Manual,5,4,4,4,5,4,5,4,4,4,4,Petrol
+Toyota,Camry,4500000,5000000,Sedan,Automatic,5,4,5,5,5,4,4,5,5,5,3,Hybrid
+Toyota,Vellfire,9000000,12000000,MPV,Automatic,7,4,5,5,5,3,3,5,5,5,3,Hybrid
+Toyota,Land Cruiser,20000000,25000000,SUV,Automatic,7,5,5,5,5,2,2,5,5,5,2,Petrol
+Toyota,Hilux,3000000,3800000,Pickup,Automatic,2,4,4,4,5,3,3,5,5,5,3,Diesel
+Toyota,Rumion,1000000,1400000,MPV,Automatic,7,3,4,4,4,4,4,4,5,4,4,Petrol
+Toyota,Belta,1000000,1500000,Sedan,Automatic,5,3,4,4,4,5,5,4,5,4,4,Petrol
+Toyota,Hyryder CNG,1300000,2100000,SUV,Automatic,5,4,5,5,5,4,4,5,5,5,4,CNG
+Honda,City,1100000,1600000,Sedan,Automatic,5,4,5,5,4,4,4,5,4,4,4,Petrol
+Honda,City Hybrid,1500000,1900000,Sedan,Automatic,5,4,5,5,4,5,4,5,4,4,4,Hybrid
+Honda,Amaze,700000,1100000,Sedan,Automatic,5,3,4,4,4,5,5,4,4,4,4,Petrol
+Honda,WR-V,1000000,1500000,SUV,Manual,5,3,4,4,4,4,4,4,4,4,4,Petrol
+Honda,Elevate,1100000,1600000,SUV,Automatic,5,4,5,5,4,4,4,5,4,4,4,Petrol
+Honda,Jazz,800000,1200000,Hatchback,Manual,5,3,4,4,4,4,5,4,4,4,4,Petrol
+Honda,ZR-V,1600000,2100000,SUV,Automatic,5,4,5,5,5,4,4,5,4,4,4,Petrol
+Volkswagen,Polo,700000,1100000,Hatchback,Manual,5,3,4,4,4,4,5,4,3,4,3,Petrol
+Volkswagen,Vento,1000000,1500000,Sedan,Automatic,5,3,4,4,4,4,4,4,3,4,3,Petrol
+Volkswagen,Taigun,1100000,1900000,SUV,Automatic,5,4,5,5,5,4,4,5,3,4,3,Petrol
+Volkswagen,Virtus,1200000,1800000,Sedan,Automatic,5,4,5,5,5,4,4,5,3,4,3,Petrol
+Volkswagen,Tiguan,3500000,4500000,SUV,Automatic,5,4,5,5,5,3,3,5,3,4,3,Petrol
+Volkswagen,ID.4,4500000,5500000,SUV,Automatic,5,4,5,5,5,5,5,5,3,4,3,Electric
+Skoda,Slavia,1200000,1800000,Sedan,Automatic,5,4,5,5,5,4,4,5,3,4,3,Petrol
+Skoda,Kushaq,1100000,1900000,SUV,Automatic,5,4,5,5,5,4,4,5,3,4,3,Petrol
+Skoda,Octavia,2800000,3500000,Sedan,Automatic,5,4,5,5,5,4,4,5,3,4,3,Petrol
+Skoda,Kodiaq,3700000,4500000,SUV,Automatic,7,4,5,5,5,3,3,5,3,4,3,Petrol
+Skoda,Superb,4000000,5000000,Sedan,Automatic,5,5,5,5,5,4,3,5,3,5,3,Petrol
+Skoda,Enyaq,4500000,5500000,SUV,Automatic,5,4,5,5,5,5,5,5,3,4,3,Electric
+Skoda,Kylaq,900000,1400000,SUV,Manual,5,3,4,4,4,4,5,4,3,4,3,Petrol
+Renault,Kwid,400000,700000,Hatchback,Manual,5,1,2,2,3,5,5,2,3,3,4,Petrol
+Renault,Kiger,600000,1100000,SUV,Manual,5,3,4,4,3,5,5,3,3,3,4,Petrol
+Renault,Triber,600000,900000,MPV,Manual,7,2,3,3,3,5,5,3,3,3,4,Petrol
+Renault,Duster,1300000,1800000,SUV,Manual,5,3,4,4,4,4,4,4,3,4,4,Petrol
+Nissan,Magnite,600000,1100000,SUV,Manual,5,3,4,4,3,5,5,3,3,3,4,Petrol
+Nissan,GT-R,21000000,23000000,Sports,Automatic,2,5,4,4,4,2,2,5,2,4,2,Petrol
+Nissan,X-Trail,4000000,5000000,SUV,Automatic,5,4,5,5,5,4,4,5,3,4,3,Hybrid
+Jeep,Compass,2000000,2600000,SUV,Automatic,5,4,5,5,5,3,3,5,4,4,3,Petrol
+Jeep,Meridian,2900000,3600000,SUV,Automatic,7,4,5,5,5,3,3,5,4,4,3,Diesel
+Jeep,Wrangler,5700000,7000000,SUV,Automatic,4,5,4,4,5,2,2,5,4,4,3,Petrol
+Jeep,Grand Cherokee,7500000,9000000,SUV,Automatic,5,5,5,5,5,3,3,5,3,4,2,Petrol
+Jeep,Avenger,2000000,2600000,SUV,Automatic,5,4,5,5,5,4,4,5,4,4,3,Petrol
+MG,Gloster,3500000,4500000,SUV,Automatic,7,4,5,5,5,3,3,5,3,4,3,Diesel
+MG,Windsor EV,1400000,1900000,SUV,Automatic,5,4,5,5,5,5,5,4,3,4,3,Electric
+MG,Hector Plus,1700000,2700000,SUV,Automatic,7,4,5,5,5,3,3,5,3,4,3,Petrol
+MG,Cloud EV,1800000,2400000,SUV,Automatic,5,4,5,5,5,5,5,5,3,4,3,Electric
+MG,M9,5000000,6500000,MPV,Automatic,7,5,5,5,5,4,4,5,3,4,3,Electric
+BMW,3 Series,5500000,6500000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+BMW,5 Series,7000000,9000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+BMW,7 Series,14000000,20000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,5,2,Petrol
+BMW,X1,4500000,5500000,SUV,Automatic,5,4,5,5,5,3,3,5,2,4,2,Petrol
+BMW,X3,7500000,8500000,SUV,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+BMW,X7,14000000,17000000,SUV,Automatic,7,5,5,5,5,2,2,5,2,4,2,Petrol
+BMW,iX,10000000,12000000,SUV,Automatic,5,5,5,5,5,5,5,5,2,5,3,Electric
+BMW,i4,7500000,9000000,Sedan,Automatic,5,5,5,5,5,5,5,5,2,5,3,Electric
+BMW,M3,10000000,12000000,Sedan,Automatic,5,5,4,4,5,3,3,5,2,5,2,Petrol
+BMW,M5,17000000,20000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,5,2,Petrol
+Mercedes,A-Class,4500000,5500000,Hatchback,Automatic,5,4,5,5,5,3,3,5,2,4,2,Petrol
+Mercedes,C-Class,6000000,7500000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Mercedes,E-Class,8000000,10000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,5,2,Petrol
+Mercedes,S-Class,17000000,23000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,5,2,Petrol
+Mercedes,GLA,5000000,6000000,SUV,Automatic,5,4,5,5,5,3,3,5,2,4,2,Petrol
+Mercedes,GLC,7000000,9000000,SUV,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Mercedes,GLE,10000000,13000000,SUV,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Mercedes,GLS,16000000,20000000,SUV,Automatic,7,5,5,5,5,2,2,5,2,4,2,Petrol
+Mercedes,EQS,15000000,18000000,Sedan,Automatic,5,5,5,5,5,5,5,5,2,5,3,Electric
+Mercedes,EQB,7000000,9000000,SUV,Automatic,5,4,5,5,5,5,5,5,2,4,3,Electric
+Mercedes,AMG GT,25000000,35000000,Sports,Automatic,2,5,4,4,5,2,2,5,2,5,2,Petrol
+Mercedes,Maybach S-Class,30000000,45000000,Sedan,Automatic,5,5,5,5,5,2,2,5,2,5,2,Petrol
+Audi,A4,5500000,6500000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Audi,A6,7500000,9000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Audi,A8,17000000,22000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,5,2,Petrol
+Audi,Q3,4500000,5500000,SUV,Automatic,5,4,5,5,5,3,3,5,2,4,2,Petrol
+Audi,Q5,7000000,9000000,SUV,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Audi,Q7,10000000,13000000,SUV,Automatic,7,5,5,5,5,3,3,5,2,4,2,Petrol
+Audi,Q8,15000000,18000000,SUV,Automatic,5,5,5,5,5,2,2,5,2,4,2,Petrol
+Audi,e-tron,8000000,10000000,SUV,Automatic,5,5,5,5,5,5,5,5,2,4,3,Electric
+Audi,e-tron GT,18000000,22000000,Sedan,Automatic,5,5,5,5,5,5,5,5,2,5,3,Electric
+Audi,RS5,10000000,12000000,Sedan,Automatic,5,5,4,4,5,3,3,5,2,5,2,Petrol
+Volvo,XC40,4500000,5500000,SUV,Automatic,5,4,5,5,5,3,3,5,2,4,3,Petrol
+Volvo,XC60,7000000,9000000,SUV,Automatic,5,5,5,5,5,3,3,5,2,4,3,Petrol
+Volvo,XC90,10000000,13000000,SUV,Automatic,7,5,5,5,5,3,3,5,2,4,3,Hybrid
+Volvo,S60,5000000,6500000,Sedan,Automatic,5,4,5,5,5,3,3,5,2,4,3,Petrol
+Volvo,S90,8000000,10000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,4,3,Hybrid
+Volvo,EX40,6000000,7500000,SUV,Automatic,5,4,5,5,5,5,5,5,2,4,3,Electric
+Volvo,EX90,12000000,15000000,SUV,Automatic,7,5,5,5,5,5,5,5,2,5,3,Electric
+Volvo,C40,6500000,8000000,SUV,Automatic,5,4,5,5,5,5,5,5,2,4,3,Electric
+Land Rover,Defender,8500000,12000000,SUV,Automatic,5,5,5,5,5,2,2,5,3,4,2,Petrol
+Land Rover,Discovery Sport,6700000,8500000,SUV,Automatic,5,4,5,5,5,3,3,5,3,4,2,Diesel
+Land Rover,Discovery,13000000,17000000,SUV,Automatic,7,5,5,5,5,2,2,5,3,4,2,Diesel
+Range Rover,Sport,15000000,20000000,SUV,Automatic,5,5,5,5,5,2,2,5,3,5,2,Petrol
+Range Rover,Velar,8000000,11000000,SUV,Automatic,5,5,5,5,5,3,3,5,3,4,2,Diesel
+Range Rover,Evoque,7000000,9000000,SUV,Automatic,5,4,5,5,5,3,3,5,3,4,2,Diesel
+Range Rover,Autobiography,30000000,45000000,SUV,Automatic,5,5,5,5,5,2,2,5,3,5,2,Petrol
+Porsche,Cayenne,13000000,18000000,SUV,Automatic,5,5,5,5,5,3,3,5,2,5,2,Petrol
+Porsche,Macan,8000000,10000000,SUV,Automatic,5,5,5,5,5,3,3,5,2,5,2,Petrol
+Porsche,Macan EV,10000000,13000000,SUV,Automatic,5,5,5,5,5,5,5,5,2,5,3,Electric
+Porsche,Taycan,16000000,22000000,Sedan,Automatic,5,5,5,5,5,5,5,5,2,5,3,Electric
+Porsche,911,20000000,30000000,Sports,Automatic,2,5,5,5,5,2,2,5,2,5,2,Petrol
+Porsche,Panamera,18000000,24000000,Sedan,Automatic,5,5,5,5,5,3,3,5,2,5,2,Hybrid
+Lamborghini,Urus,30000000,40000000,SUV,Automatic,5,5,5,5,5,2,2,5,2,5,2,Petrol
+Lamborghini,Huracan,40000000,55000000,Sports,Automatic,2,5,4,4,4,1,1,5,2,5,2,Petrol
+Lamborghini,Revuelto,60000000,80000000,Sports,Automatic,2,5,5,5,5,1,1,5,2,5,2,Hybrid
+Ferrari,Roma,25000000,35000000,Sports,Automatic,2,5,5,5,5,1,1,5,2,5,2,Petrol
+Ferrari,Purosangue,55000000,70000000,SUV,Automatic,5,5,5,5,5,2,2,5,2,5,2,Petrol
+Ford,Endeavour,3500000,4500000,SUV,Automatic,7,4,5,4,5,3,3,5,4,4,3,Diesel
+Ford,EcoSport,900000,1300000,SUV,Manual,5,3,4,4,4,4,5,4,4,4,4,Petrol
+Ford,Figo,700000,1000000,Hatchback,Manual,5,3,4,4,4,4,5,4,4,4,4,Petrol
+Ford,Aspire,800000,1100000,Sedan,Manual,5,3,4,4,4,4,5,4,4,4,4,Petrol
+Ford,Mustang,7500000,9000000,Sports,Automatic,2,5,4,4,4,2,2,5,4,5,3,Petrol
+Ford,Mustang Mach-E,7000000,9000000,SUV,Automatic,5,4,5,5,5,5,5,5,4,4,3,Electric
+Isuzu,D-Max,1800000,2500000,Pickup,Manual,2,4,3,3,4,4,3,5,4,4,3,Diesel
+Isuzu,MU-X,3000000,3800000,SUV,Automatic,7,4,5,4,5,3,3,5,4,4,3,Diesel
+Citroen,C3,600000,1000000,Hatchback,Manual,5,2,4,3,3,4,5,3,3,3,4,Petrol
+Citroen,C3 Aircross,1000000,1500000,SUV,Manual,5,3,4,4,3,4,4,4,3,3,4,Petrol
+Citroen,eC3,1200000,1600000,Hatchback,Automatic,5,3,4,4,4,5,5,3,3,3,4,Electric
+Citroen,C5 Aircross,3500000,4200000,SUV,Automatic,5,4,5,5,5,3,3,5,3,3,3,Petrol
+Citroen,Basalt,1100000,1600000,SUV,Automatic,5,3,4,4,4,4,4,4,3,3,4,Petrol
+Lexus,ES300h,5500000,6500000,Sedan,Automatic,5,4,5,5,5,4,4,5,4,5,3,Hybrid
+Lexus,NX,6500000,8000000,SUV,Automatic,5,4,5,5,5,4,4,5,4,5,3,Hybrid
+Lexus,LX,20000000,25000000,SUV,Automatic,7,5,5,5,5,2,2,5,4,5,3,Petrol
+Lexus,RX,10000000,12000000,SUV,Automatic,5,5,5,5,5,3,3,5,4,5,3,Hybrid
+Lexus,UX,5000000,6000000,SUV,Automatic,5,4,5,5,5,4,4,5,4,4,3,Hybrid
+Tata,Punch Petrol,600000,900000,SUV,Automatic,5,2,4,3,4,4,5,3,4,4,4,Petrol
+Tata,Safari Diesel,1700000,2700000,SUV,Automatic,7,4,5,5,5,4,3,5,4,4,3,Diesel
+Tata,Harrier Diesel,1600000,2600000,SUV,Automatic,5,4,5,5,5,4,3,5,4,4,3,Diesel
+Mahindra,Scorpio Classic Diesel,1100000,1700000,SUV,Manual,7,3,3,3,4,4,4,3,4,4,3,Diesel
+Maruti,Fronx Turbo,900000,1400000,SUV,Automatic,5,4,4,4,3,4,5,4,5,4,5,Petrol
+Hyundai,Creta Diesel,1300000,2100000,SUV,Automatic,5,4,5,5,4,5,4,5,4,4,4,Diesel
+Hyundai,Venue Diesel,900000,1500000,SUV,Manual,5,3,4,4,4,5,5,4,4,4,4,Diesel
+Kia,Sonet Turbo,1000000,1600000,SUV,Automatic,5,4,4,4,4,4,5,4,4,4,4,Petrol
+Honda,Amaze Diesel,800000,1200000,Sedan,Manual,5,3,4,4,4,5,5,4,4,4,4,Diesel
+Toyota,Fortuner Legender,4000000,5200000,SUV,Automatic,7,5,5,5,5,3,3,5,5,5,3,Diesel
+Toyota,GR Hyryder,1500000,2200000,SUV,Manual,5,4,5,5,5,4,4,5,5,4,4,Petrol
+Volkswagen,Taigun GT,1600000,2100000,SUV,Automatic,5,5,5,5,5,4,4,5,3,4,3,Petrol
+Skoda,Kushaq Monte Carlo,1500000,2100000,SUV,Automatic,5,4,5,5,5,4,4,5,3,4,3,Petrol
+MG,Hector Blackstorm,1700000,2700000,SUV,Automatic,5,4,5,5,5,3,3,5,3,4,3,Petrol
+BYD,eMax7,3500000,4500000,MPV,Automatic,7,4,5,5,5,5,5,5,3,5,3,Electric
+BYD,Sealion 6,3000000,3800000,SUV,Automatic,5,4,5,5,5,5,5,5,3,5,3,Hybrid
+Mahindra,XUV700 Petrol,1400000,2500000,SUV,Automatic,7,4,5,5,5,3,3,5,4,4,3,Petrol
+Tata,Nexon AMT,900000,1500000,SUV,Automatic,5,3,4,4,5,4,4,4,4,4,4,Petrol
+Maruti,Jimny 5-door,1300000,1700000,SUV,Automatic,5,4,3,3,4,3,3,5,4,4,4,Petrol
+Hyundai,Creta 7-seater,1400000,2200000,SUV,Automatic,7,4,5,5,4,4,4,5,4,4,4,Petrol
+Kia,Seltos X Line,1600000,2100000,SUV,Automatic,5,4,5,5,4,4,4,5,4,4,4,Petrol
+Mahindra,BE6 Pro,2200000,3000000,SUV,Automatic,5,5,5,5,5,5,5,5,4,5,4,Electric
+Tata,Sierra,2000000,2500000,SUV,Automatic,5,4,5,5,5,4,4,5,4,4,4,Petrol
+Skoda,Elroq,4500000,5500000,SUV,Automatic,5,4,5,5,5,5,5,5,3,4,3,Electric
+Volkswagen,ID.7,5500000,6500000,Sedan,Automatic,5,4,5,5,5,5,5,5,3,4,3,Electric
+Honda,Prologue,5000000,6500000,SUV,Automatic,5,4,5,5,5,5,5,5,4,4,3,Electric
+Hyundai,IONIQ5 N,6500000,8000000,SUV,Automatic,5,5,5,5,5,5,5,5,3,5,3,Electric
+Kia,EV3,2500000,3500000,SUV,Automatic,5,4,5,5,5,5,5,5,3,4,3,Electric
+MG,Cyberster,6500000,8000000,Sports,Automatic,2,5,5,5,5,5,5,5,3,5,3,Electric
+Mercedes,EQA,6000000,7500000,SUV,Automatic,5,4,5,5,5,5,5,5,2,4,3,Electric
+BMW,X2,6000000,7500000,SUV,Automatic,5,4,5,5,5,3,3,5,2,4,2,Petrol
+Audi,Q3 Sportback,5500000,6500000,SUV,Automatic,5,5,5,5,5,3,3,5,2,4,2,Petrol
+Citroen,eC3 Aircross,1400000,1900000,SUV,Automatic,5,3,4,4,4,5,5,4,3,3,4,Electric
+Renault,Kiger Turbo,800000,1300000,SUV,Automatic,5,3,4,4,3,4,5,3,3,3,4,Petrol
+Nissan,Magnite Turbo,800000,1300000,SUV,Automatic,5,3,4,4,3,4,5,3,3,3,4,Petrol
+Jeep,Wrangler 4xe,7500000,9000000,SUV,Automatic,4,5,4,4,5,3,2,5,4,4,3,Hybrid
+Mahindra,Thar 5-Door,1600000,2100000,SUV,Manual,5,4,4,4,4,2,3,5,4,4,3,Diesel
+Tata,Curvv Diesel,1400000,2100000,SUV,Automatic,5,4,5,5,5,5,4,5,4,4,4,Diesel
+Maruti,GrandVitara CNG,1400000,2100000,SUV,Automatic,5,4,5,5,5,4,4,5,5,4,5,CNG
