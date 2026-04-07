@@ -52,3 +52,7 @@ It ranks available cars and shows:
 	•	 Radar chart visualization
 	•	 Interactive GUI
 
+⸻
+
+Author
+	• Shripad Chekka, Rutvik Reddy, Akshat Sharma
