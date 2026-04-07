@@ -285,7 +285,9 @@ def calculate_score(cars, user_weights):
     for _, car in cars.iterrows():
         score = 0
         for category in ["Performance", "Comfort", "Features", "Safety", "Mileage"]:
-            score += user_weights[category]* car[category]
+                difference = abs(user_weights[category] - car[category])
+                match_score = 5 - difference
+                score += match_score * user_weights[category]
 
         budget = user_weights["Budget"]
 
